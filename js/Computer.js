@@ -19,7 +19,7 @@ class Computer {
     push();
     textSize(20);
     fill("white");
-    text("Computer", width - 310, 40);
+    text("Computadora", width - 310, 40);
 
     fill(this.life1);
     rect(width - 420, 50, 70, 30);
