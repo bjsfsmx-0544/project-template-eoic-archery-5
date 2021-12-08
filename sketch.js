@@ -61,7 +61,7 @@ function setup() {
 function draw() {
   background(189);
 
-  //write a correct line of code to display the background image
+  // escribe una línea de código para mostrar la imagen de fondo 
   
 
   Engine.update(engine);
@@ -70,7 +70,7 @@ function draw() {
   fill("#FFFF");
   textAlign("center");
   textSize(40);
-  text("EPIC ARCHERY", width / 2, 100);
+  text("TIRO CON ARCO ÉPICO", width / 2, 100);
 
  
   playerBase.display();
